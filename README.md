@@ -2,10 +2,12 @@ Hi 👋, I’m Jay — a passionate Front-End Developer with over 2 years of han
 
 I’m also skilled in **version control with Git & GitHub**, and work efficiently with tools like **Vite, npm, and VS Code**. My projects are deployed on platforms such as **Netlify, Vercel, and GitHub Pages**, making them accessible to a wider audience.  
 
-✨ You can check out more of my work here: [jay345-portfolio-website.vercel.app](https://jay345-portfolio-website.vercel.app/)  
+You can check out more of my work here: [jay345-portfolio-website.vercel.app](https://jay345-portfolio-website.vercel.app/)  
 
 ## Main Contributions
-- 🧩 Project: [my-awesome-repo](https://github.com/USERNAME/my-awesome-repo) — short description.
+
+I don’t have any major contributions yet, but I’m actively learning, building projects, and preparing to contribute to open-source.  
+My goal is to make meaningful contributions to projects in **React, Node.js, and Web Development** in the near future.
 
 ## Tech Stack
 
