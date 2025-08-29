@@ -8,11 +8,12 @@ You can check out more of my work here: [jay345-portfolio-website.vercel.app](ht
 
 **Project: Netflix Clone**  
 A full-stack MERN-based streaming website inspired by Netflix, featuring responsive design, user authentication, and premium content browsing.  
-🔗 [View Project](https://cine-stream00.netlify.app/)
+🔗 <a href="https://cine-stream00.netlify.app/" target="_blank">View Project</a>
+
 
 **Project: Decentize Crypto Vault**  
 A blockchain-based secure vault application designed for storing and managing digital assets with cryptographic protection. It focuses on decentralization, transparency, and enhanced security for users managing cryptocurrencies.  
-🔗 [View Project](https://crypto-vault-lyart.vercel.app/) 
+🔗 <a href="https://crypto-vault-lyart.vercel.app/" target="_blank">View Project</a>
 
 ## Tech Stack
 
