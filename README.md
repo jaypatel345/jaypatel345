@@ -56,12 +56,4 @@ A short one-line bio about you.
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-dark-mode-only" width="50" height="50"/> -->
 </p>
 
-<style>
-  .tech-logo {
-    transition: transform 0.3s, filter 0.3s;
-  }
-  .tech-logo:hover {
-    transform: scale(1.1);
-    filter: drop-shadow(0 0 10px #61DAFB); /* Change color for glow */
-  }
-</style>
+
