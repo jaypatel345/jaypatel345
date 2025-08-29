@@ -6,9 +6,10 @@ You can check out more of my work here: [jay345-portfolio-website.vercel.app](ht
 
 ## Main Contributions
 
-**Project: Netflix Clone**  
-A full-stack MERN-based streaming website inspired by Netflix, featuring responsive design, user authentication, and premium content browsing.  
-🔗 <a href="https://cine-stream00.netlify.app/" target="_blank">View Project</a>
+**Project: PromptX**  
+An AI-powered project focused on prompt engineering and automation. It provides tools for building, managing, and sharing effective prompts for large language models, enabling smarter workflows and better AI interactions.  
+🔗 [View Project](https://promptai-six.vercel.app/)
+
 
 
 **Project: Decentize Crypto Vault**  
