@@ -1,14 +1,8 @@
-## Hi there 👋
+Hi 👋, I’m Jay — a passionate Front-End Developer with over 2 years of hands-on experience in building responsive and user-friendly web applications. I specialize in crafting clean and maintainable code using modern technologies like **HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), and React.js**, along with state management tools such as **React Context API** and **Redux Toolkit**. I enjoy turning ideas into reality by focusing on **reusable components, responsive design, and seamless API integrations** using **REST APIs, Axios, and JSON**.  
 
-# Hi, I'm Jay Patel 👋
+I’m also skilled in **version control with Git & GitHub**, and work efficiently with tools like **Vite, npm, and VS Code**. My projects are deployed on platforms such as **Netlify, Vercel, and GitHub Pages**, making them accessible to a wider audience.  
 
-A short one-line bio about you.
-
-<!-- two cards: GitHub stats + top languages -->
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark" width="48%" />
-</p>
+✨ You can check out more of my work here: [jay345-portfolio-website.vercel.app](https://jay345-portfolio-website.vercel.app/)  
 
 ## Main Contributions
 - 🧩 Project: [my-awesome-repo](https://github.com/USERNAME/my-awesome-repo) — short description.
