@@ -2,6 +2,10 @@ Hi 👋, I’m Jay — a JavaScript & React Developer passionate about building 
 
 You can check out more of my work here: [jay345-portfolio-website.vercel.app](https://jay345-portfolio-website.vercel.app/)  
 
+
+
+
+
 ## Main Contributions
 
 **Project: PromptX**  
