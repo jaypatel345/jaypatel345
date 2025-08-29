@@ -16,7 +16,7 @@ A short one-line bio about you.
 ## Tech Stack
 
 ### Programming Languages
-<p>
+<p class="tech-logo">
   <img src="/assets/c.svg" width="50" height="50"/>
   <img src="/assets/c++.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
@@ -28,7 +28,7 @@ A short one-line bio about you.
 ### Web Development  
 
 **Front-End**
-<p>
+<p class="tech-logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
@@ -37,7 +37,7 @@ A short one-line bio about you.
 </p>
 
 **Back-End**
-<p>
+<p class="tech-logo">
   <img src="/assets/15.png" width="50" height="50"/>
   <!-- Express (white for dark mode / black for light mode) -->
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" width="50" height="50"/>
@@ -48,10 +48,20 @@ A short one-line bio about you.
 ---
 
 ### IDEs & Tools
-<p>
+<p class="tech-logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
   <img src="/assets/33.png" width="50" height="50"/>
   <!-- GitHub (white for dark mode / black for light mode) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-dark-mode-only" width="50" height="50"/> -->
 </p>
+
+<style>
+  .tech-logo {
+    transition: transform 0.3s, filter 0.3s;
+  }
+  .tech-logo:hover {
+    transform: scale(1.1);
+    filter: drop-shadow(0 0 10px #61DAFB); /* Change color for glow */
+  }
+</style>
