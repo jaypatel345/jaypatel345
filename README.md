@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**jaypatel345/jaypatel345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jay Patel 👋
 
-Here are some ideas to get you started:
+A short one-line bio about you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- two cards: GitHub stats + top languages -->
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark" width="48%" />
+</p>
+
+## Main Contributions
+- 🧩 Project: [my-awesome-repo](https://github.com/USERNAME/my-awesome-repo) — short description.
+
+<!-- optional pinned repo card -->
+<img src="https://github-readme-stats.vercel.app/api/pin?username=USERNAME&repo=my-awesome-repo&theme=dark" />
