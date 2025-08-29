@@ -6,8 +6,13 @@ You can check out more of my work here: [jay345-portfolio-website.vercel.app](ht
 
 ## Main Contributions
 
-I don’t have any major contributions yet, but I’m actively learning, building projects, and preparing to contribute to open-source.  
-My goal is to make meaningful contributions to projects in **React, Node.js, and Web Development** in the near future.
+**Project: Netflix Clone**  
+A full-stack MERN-based streaming website inspired by Netflix, featuring responsive design, user authentication, and premium content browsing.  
+🔗 [View Project](https://github.com/jaypatel345/netflix-clone)
+
+**Project: Portfolio Website**  
+A personal portfolio built with React and Tailwind CSS, showcasing my skills, projects, and achievements.  
+🔗 [Live Website](https://jay345-portfolio-website.vercel.app/)
 
 ## Tech Stack
 
