@@ -17,8 +17,8 @@ A short one-line bio about you.
 
 ### Programming Languages
 <p>
-  <img src="/assets/c.svg" width="50" height="50"/>
-  <img src="/assets/c++.svg" width="50" height="50"/>
+  <img src="/assets/c.svg" width="60" height="60"/>
+  <img src="/assets/c++.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
 </p>
