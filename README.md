@@ -41,7 +41,7 @@ A short one-line bio about you.
   <img src="/assets/15.png" width="50" height="50"/>
   <!-- Express (white for dark mode / black for light mode) -->
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg#gh-dark-mode-only" width="50" height="50"/>
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
 </p>
 
