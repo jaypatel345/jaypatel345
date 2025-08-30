@@ -21,7 +21,7 @@ A blockchain-based secure vault application designed for storing and managing di
 ### Programming Languages
 <p class="tech-logo">
   <img src="/assets/C.png" width="50" height="50"/>
-  <img src="/assets/pngwing.com.png" width="50" height="50"/>
+  <img src="/assets/C++.com.png" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
 </p>
@@ -41,9 +41,9 @@ A blockchain-based secure vault application designed for storing and managing di
 
 **Back-End**
 <p class="tech-logo">
- <img src="/assets/15.png" width="50" height="50"/>
+ <img src="/assets/NODE.png" width="50" height="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
- <img src="/assets/ex.png" width="50" height="50"/>
+ <img src="/assets/EX.png" width="50" height="50"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@ A blockchain-based secure vault application designed for storing and managing di
 ### IDEs & Tools
 <p class="tech-logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
-  <img src="/assets/33.png" width="50" height="50"/>
+  <img src="/assets/GIT.png" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 </p>
 
