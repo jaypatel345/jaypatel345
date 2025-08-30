@@ -45,7 +45,7 @@ A blockchain-based secure vault application designed for storing and managing di
 <p class="tech-logo">
  <img src="/assets/15.png" width="50" height="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
- <img src="/assets/pngwing.com (1).png" width="60" height="60"/>
+ <img src="/assets/pngwing.com (1).png" width="50" height="50"/>
 </p>
 
 ---
@@ -54,9 +54,7 @@ A blockchain-based secure vault application designed for storing and managing di
 <p class="tech-logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
   <img src="/assets/33.png" width="50" height="50"/>
-  <!-- GitHub (white for dark mode / black for light mode) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-dark-mode-only" width="50" height="50"/> -->
 </p>
 
 <div>
