@@ -43,11 +43,9 @@ A blockchain-based secure vault application designed for storing and managing di
 
 **Back-End**
 <p class="tech-logo">
-  <img src="/assets/15.png" width="50" height="50"/>
-  <!-- Express (white for dark mode / black for light mode) -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" width="50" height="50"/>
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+ <img src="/assets/15.png" width="50" height="50"/>
+ <img src="/assets/pngwing.com.png" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
 </p>
 
 ---
@@ -62,7 +60,7 @@ A blockchain-based secure vault application designed for storing and managing di
 </p>
 
 <div>
-    <h1>📊 GitHub Stats:</h1>
+    <h1>GitHub Stats:</h1>
     <img src="https://github-readme-stats.vercel.app/api?username=bandhan-majumder&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bandhan-majumder&theme=merko&hide_border=false" alt="GitHub Streak Stats">
@@ -72,19 +70,7 @@ A blockchain-based secure vault application designed for storing and managing di
 
 <div align="center">
 
-  <!--
-  <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=bandhan-majumder&icon=0&color=0" alt="Visit Count">
-  </a>
-  
-  <h1>
-    <img src="http://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&duration=5002&pause=1000&color=A9F865CA&background=C1FFE000&center=true&vCenter=true&random=false&width=436&lines=Hey+everyone+%F0%9F%91%8B+!;I+am+Bandhan+Majumder!">
-  </h1>
 
-  <div>
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ow6w2lsgjly7zoz4qk6wlcyuyu&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ow6w2lsgjly7zoz4qk6wlcyuyu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify-song">
-  </div>
-  -->
     
   <div>
     <h2> Contributions </h2>
