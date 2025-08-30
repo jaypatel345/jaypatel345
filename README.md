@@ -43,7 +43,7 @@ A blockchain-based secure vault application designed for storing and managing di
 <p class="tech-logo">
  <img src="/assets/15.png" width="50" height="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
- <img src="/assets/pngwing.com (1).png" width="50" height="50"/>
+ <img src="/assets/ex.png" width="50" height="50"/>
 </p>
 
 ---
