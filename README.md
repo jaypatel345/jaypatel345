@@ -61,4 +61,11 @@ A blockchain-based secure vault application designed for storing and managing di
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-dark-mode-only" width="50" height="50"/> -->
 </p>
 
-
+<div>
+    <h1>📊 GitHub Stats:</h1>
+    <img src="https://github-readme-stats.vercel.app/api?username=bandhan-majumder&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bandhan-majumder&theme=merko&hide_border=false" alt="GitHub Streak Stats">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandhan-majumder&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  </div>
