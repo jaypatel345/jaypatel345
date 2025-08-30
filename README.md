@@ -21,7 +21,7 @@ A blockchain-based secure vault application designed for storing and managing di
 ### Programming Languages
 <p class="tech-logo">
   <img src="/assets/C.png" width="50" height="50"/>
-  <img src="/assets/C++.com.png" width="50" height="50"/>
+  <img src="/assets/C++.png" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
 </p>
