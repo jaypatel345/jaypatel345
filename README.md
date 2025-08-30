@@ -66,16 +66,7 @@ A blockchain-based secure vault application designed for storing and managing di
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandhan-majumder&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
   </div>
 
-<div align="center">
-
-
-    
-  <div>
-    <h2> Contributions </h2>
-    <img src="https://github.com/bandhan-majumder/bandhan-majumder/blob/output/github-contribution-grid-snake-dark.svg" alt="snake-svg">
-  </div>
-
-## 🐍 Contribution Snake
+## Contribution 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaypatel345/jaypatel345/output/github-contribution-grid-snake-dark.svg" />
