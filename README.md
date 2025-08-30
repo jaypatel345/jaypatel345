@@ -1,9 +1,7 @@
 Hi 👋, I’m Jay — a JavaScript & React Developer passionate about building modern web apps.
 
-You can check out more of my work here: [jay345-portfolio-website.vercel.app](https://jay345-portfolio-website.vercel.app/)  
-
-
-
+You can check out more of my work here: 
+[jay345-portfolio-website.vercel.app](https://jay345-portfolio-website.vercel.app/)  
 
 
 ## Main Contributions
@@ -57,14 +55,6 @@ A blockchain-based secure vault application designed for storing and managing di
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 </p>
 
-<div>
-    <h1>GitHub Stats:</h1>
-    <img src="https://github-readme-stats.vercel.app/api?username=bandhan-majumder&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bandhan-majumder&theme=merko&hide_border=false" alt="GitHub Streak Stats">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandhan-majumder&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-  </div>
 
 ## Contribution 
 <div align="center">
