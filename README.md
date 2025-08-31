@@ -56,7 +56,7 @@ A blockchain-based secure vault application designed for storing and managing di
 </p>
 
 
-/*
+<!--
 ## Contribution 
 <div align="center">
 <picture>
@@ -66,3 +66,4 @@ A blockchain-based secure vault application designed for storing and managing di
 </picture>
 </div>
 */
+-->
