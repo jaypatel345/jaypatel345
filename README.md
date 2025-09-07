@@ -56,7 +56,7 @@ A blockchain-based secure vault application designed for storing and managing di
 </p>
 
 
-
+<!--
 ## Contribution 
 <div align="center">
 <picture>
@@ -65,5 +65,6 @@ A blockchain-based secure vault application designed for storing and managing di
   <img alt="github cnntribution snake" src="https://raw.githubusercontent.com/jaypatel345/jaypatel345/output/github-contribution-grid-snake.svg"  />
 </picture>
 </div>
+--!>
 
 
