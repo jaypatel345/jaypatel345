@@ -10,7 +10,7 @@ Explore more of my work:
 
 **PromptX** is an AI-driven tool designed to enhance and automate prompt engineering. It helps users create, optimize, and manage effective prompts for large language models—simplifying workflows and improving AI interaction quality.
 
-**Live:** https://promptai-six.vercel.app/
+**Live:** https://promptx.co.in
 
 ---
 
@@ -55,9 +55,4 @@ Explore more of my work:
 
 ---
 
-## GitHub Contribution Activity  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaypatel345/jaypatel345/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaypatel345/jaypatel345/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/jaypatel345/jaypatel345/output/github-contribution-grid-snake.svg" />
-</picture>
+
