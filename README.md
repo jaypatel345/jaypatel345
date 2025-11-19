@@ -2,7 +2,7 @@
 **JavaScript & React Developer | Building Modern, Fast, AI-Powered Applications**
 
 Explore more of my work:  
-**Portfolio:** https://jay345-portfolio-website.vercel.app/
+**Portfolio:** https://jaycraft.vercel.app
 
 ---
 
