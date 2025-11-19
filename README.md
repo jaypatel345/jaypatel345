@@ -11,11 +11,11 @@ An AI-powered project focused on prompt engineering and automation. It provides 
 🔗 [View Project](https://promptai-six.vercel.app/)
 
 
-
+<!--
 **Project: Decentize Crypto Vault**  
 A blockchain-based secure vault application designed for storing and managing digital assets with cryptographic protection. It focuses on decentralization, transparency, and enhanced security for users managing cryptocurrencies.  
 🔗 <a href="https://crypto-vault-lyart.vercel.app/" target="_blank">View Project</a>
-
+--!>
 ## Tech Stack
 
 ### Programming Languages
