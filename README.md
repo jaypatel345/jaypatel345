@@ -10,7 +10,7 @@ Explore more of my work:
 
 **PromptX** is an AI-driven tool designed to enhance and automate prompt engineering. It helps users create, optimize, and manage effective prompts for large language models—simplifying workflows and improving AI interaction quality.
 
-**Live:** https://promptx.co.in
+**Live:** https://www.promptx.co.in
 
 ---
 
